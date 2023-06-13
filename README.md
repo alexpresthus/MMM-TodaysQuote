@@ -1,0 +1,1 @@
+# MagicMirror² Module: TodaysQuote
