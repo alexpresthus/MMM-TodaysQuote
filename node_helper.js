@@ -1,3 +1,9 @@
+/* MagicMirror²
+ * Module: TodaysQuote
+ *
+ * By Alexander Presthus
+ * MIT Licensed.
+ */
 var NodeHelper = require('node_helper');
 var request = require('request');
 
